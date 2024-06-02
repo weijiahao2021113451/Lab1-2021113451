@@ -1,4 +1,4 @@
-The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over t
 A unique word, with punctuation! Another word
 numbers and 456 more.Bridge-Word bridgeword
 A repeated-word, and another REPEATED-WORD.
